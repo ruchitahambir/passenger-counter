@@ -1,0 +1,53 @@
+*{
+    background-image: none;
+    background: url(sky1.png) ;
+    background-repeat: no-repeat;
+    background-position: 100%;
+}
+#counter
+{
+    text-align: center;
+}
+#count-el
+{
+    text-align: center;
+}
+#welcome-el
+{
+    text-align: center;
+    font-size: 50px;
+}
+#save-el{
+    text-align: center;
+    font-size: 30px;
+}
+h1
+{
+    color:coral ;
+    font-size: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h2
+{
+    font-size: 98px;
+    font-weight: bolder;
+}
+button
+{
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: antiquewhite;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+#increment-btn
+{
+    background: chocolate;
+}
+#save-btn
+{
+    background-color: rgba(205, 144, 233, 0.877);
+}
